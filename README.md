@@ -1,6 +1,10 @@
 # Save Wildlife
 
-
+<p float="left">
+  <img src="static/images/output1.jpeg" width="500">
+  <img src="static/images/output2.jpeg" width="400">
+  <img src="static/images/output3.jpeg" width="400">
+</p>
 
 ## Inspiration
 Based on the zoo theme provided and underfunding of animal welfare around the world during COVID-19 pandemic, we decided to build a website that provides both NGOs and users with essential statistics, predicting data about animal populations. So, they can raise awareness about nature then pay attention to natural activities.
